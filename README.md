@@ -1,5 +1,5 @@
 # Diagnosing Human-object Interaction Detectors
-Code for "[Diagnosing Human-object Interaction Detectors](toadd)".
+Code for "[Diagnosing Human-object Interaction Detectors](https://arxiv.org/abs/2308.08529)".
 
 Contributed by [Fangrui Zhu](https://fangruizhu.github.io/), [Yiming Xie](https://ymingxie.github.io/), [Weidi Xie](https://weidixie.github.io/), [Huaizu Jiang](https://jianghz.me/).
 
